@@ -1,7 +1,7 @@
 <?php
 
 /*
- https://api.telegram.org/bot189151682:AAE-gybyHHcsMz2UE-YHqX6pG4Eo7GcqhKE/setWebHook?url=https://datagod.ca/chat/wallbot.php
+ https://api.telegram.org/bot189151682:AAE-gybyHHcsMz2UE-YHqX6pG4Eo7GcqhKE/setWebHook?url=https://github.com/Zenodice/TrumpWall/blob/master/wallbot.php
 */
 
 define('BOT_TOKEN', '189151682:AAE-gybyHHcsMz2UE-YHqX6pG4Eo7GcqhKE');
